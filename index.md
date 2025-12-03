@@ -1,5 +1,5 @@
 ---
-title: seven's first website
+title: seven's-first-website
 ---
 
 # howdy 😁
